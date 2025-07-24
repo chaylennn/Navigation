@@ -18,7 +18,7 @@ struct ContentView: View {
                         .font(.title2)
                 }
                 NavigationLink(destination: Text("You are doing great!")){
-                    Text("Click here for positive affirmations ❤️")
+                    Text("contact")
                         .foregroundColor(Color.purple)
                     
                 }
